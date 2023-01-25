@@ -1,0 +1,1 @@
+enum ParserTypes { document, block, text, value, latex }

@@ -1,0 +1,4 @@
+#Mon Nov 28 13:30:32 NPT 2022
+base.0=/Users/johnbhujel/truenary_projects/coursenami/mobile-app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

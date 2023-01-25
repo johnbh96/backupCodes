@@ -1,0 +1,18 @@
+[
+  {
+    "model": "counter.question",
+    "pk": 1,
+    "fields": {
+      "question_text": "What's new?",
+      "pub_date": "2022-01-02T05:49:25.698Z"
+    }
+  },
+  {
+    "model": "counter.question",
+    "pk": 2,
+    "fields": {
+      "question_text": "What's is your mind?",
+      "pub_date": "2022-01-02T05:49:25.698Z"
+    }
+  }
+]

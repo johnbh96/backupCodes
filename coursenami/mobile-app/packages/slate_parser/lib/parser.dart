@@ -1,0 +1,1 @@
+export 'package:slate_parser/main/slate_parser.dart';

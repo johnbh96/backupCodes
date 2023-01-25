@@ -1,0 +1,1 @@
+docker-compose --project-name=counterise_dev --file=docker/docker-compose.dev.backend.yaml up -d

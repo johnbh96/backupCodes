@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "841091034175",
+    "project_id": "hamro-counter-dev",
+    "storage_bucket": "hamro-counter-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841091034175:android:0c270ea5e6f9cd3f509c8a",
+        "android_client_info": {
+          "package_name": "com.truenary.hamrocounter.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841091034175-6fas9fjdf3la7i3pfqo50gq62g0metuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.truenary.hamrocounter.dev",
+            "certificate_hash": "2da143d8fc20de31f8338b855eb570665bbf94f2"
+          }
+        },
+        {
+          "client_id": "841091034175-v73oij51nk1clj1cm7qkabe8da998vmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnAugEcpbdchsd3D-559QItRsU3IEgM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841091034175-v73oij51nk1clj1cm7qkabe8da998vmm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841091034175-5stpqq8b0vunljc0u0r52ej33a5ecliq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.truenary.coursenami.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

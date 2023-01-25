@@ -1,0 +1,39 @@
+version: '3.7'
+
+services:
+  db:
+    image: postgres:13.5
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=counterise
+      - POSTGRES_USER=dev
+      - POSTGRES_PASSWORD=thepeeps
+    depends_on:
+      - api
+  broker:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    depends_on:
+      - api
+  api:
+    # image: counterise/backend-api:0.1
+    build: ../
+    tty: true
+    volumes:
+      - ../:/app
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_HOST=localhost
+      - DB_PORT=5432
+      - DB_USER=dev
+      - DB_NAME=counterise
+      - DB_PASSWORD=thepeeps
+volumes:
+  pgdata:
+    driver: local

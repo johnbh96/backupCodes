@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">152842502990-qnm2rfrb7b8t1rlka2tn7vjljds8i8r1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">152842502990</string>
+    <string name="google_api_key" translatable="false">AIzaSyA3SiCCyEug4B_3ptvJekkvXQFVZNzb8m0</string>
+    <string name="google_app_id" translatable="false">1:152842502990:android:08915539601aea45a6141f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA3SiCCyEug4B_3ptvJekkvXQFVZNzb8m0</string>
+    <string name="google_storage_bucket" translatable="false">coursenami-dev-77011.appspot.com</string>
+    <string name="project_id" translatable="false">coursenami-dev-77011</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>841091034175-u98c4ubo5a1nij57se4mki6ol90ovkg4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.841091034175-u98c4ubo5a1nij57se4mki6ol90ovkg4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>841091034175-6fas9fjdf3la7i3pfqo50gq62g0metuk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOcCto9mRD6xT0-nb1cl_24ayPqNaevIs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>841091034175</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.truenary.hamrocounter.dev</string>
+	<key>PROJECT_ID</key>
+	<string>hamro-counter-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hamro-counter-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:841091034175:ios:41fb41190f0e769e509c8a</string>
+</dict>
+</plist>

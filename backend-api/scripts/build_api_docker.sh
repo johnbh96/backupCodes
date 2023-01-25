@@ -1,0 +1,1 @@
+docker build -t 'counterise/backend-api:0.1' -f Dockerfile .

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.truenary.coursenami.dev.app-mergeDebugResources-16:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/johnbhujel/.gradle/caches/transforms-3/2c1665f07bd852ad84de7200017b3082/transformed/browser-1.4.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,255,454,665",
+                        "endColumns": "199,198,210,201",
+                        "endOffsets": "250,449,660,862"
+                    }
+                },
+                {
+                    "source": "/Users/johnbhujel/.gradle/caches/transforms-3/dcc40d32b3726e98626bee6f262f8a8a/transformed/core-1.6.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "867",
+                        "endColumns": "203",
+                        "endOffsets": "1066"
+                    }
+                }
+            ]
+        }
+    ]
+}

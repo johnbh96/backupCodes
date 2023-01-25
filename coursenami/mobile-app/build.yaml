@@ -1,0 +1,10 @@
+targets:
+  $default:
+    sources:
+    - bdd_test/**
+    - lib/**
+    - $package$
+    builders:
+      bdd_widget_test|featureBuilder:
+        options:
+          stepFolderName: ../bdd_test/steps
